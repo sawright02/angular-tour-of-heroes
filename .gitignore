@@ -2,7 +2,9 @@
 # http://git-scm.com/docs/gitignore
 
 .DS_Store
-*.js
+main.js
+app.component.js
+app.module.js
 *.map
 node_modules/
 typings/
