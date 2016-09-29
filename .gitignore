@@ -1,0 +1,8 @@
+# Untracked files
+# http://git-scm.com/docs/gitignore
+
+.DS_Store
+*.js
+*.map
+node_modules/
+typings/
